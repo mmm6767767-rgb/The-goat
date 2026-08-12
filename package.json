@@ -1,0 +1,14 @@
+{
+  "name": "discord-account-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
